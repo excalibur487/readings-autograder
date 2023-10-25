@@ -1,7 +1,15 @@
+#!/usr/bin/env python3
+"""
+Usage: python3 grader.py
+"""
+
+__author__ = 'Siddarth Shinde'
+__version__ = '1.0.0'
+__email__ = 'sshinde4@ncsu.edu'
+
 import csv
 import piazza_api
 from piazza_api import Piazza
-
 
 def main():  
     p = Piazza()
