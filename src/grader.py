@@ -17,7 +17,7 @@ def main():
     # Prompt for email and password
     p.user_login()
 
-    # Replace with class code (whatever comes after "class/" in the url)
+    # Note: Replace with class code every semester (whatever comes after "class/" in the url)
     csc110 = p.network("llbcl58pjkd113")
 
     while True:
