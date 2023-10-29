@@ -75,9 +75,11 @@ def scores_to_csv(user_score_map, user_to_name_map):
             {"Name": user_to_name_map.get(uid), "Score": user_score_map.get(uid)}
         )
 
+    filename = input("Save gradebook as (Enter to skip and use default filename): ")
+    filename = "grades" if filename == "" else filename
     # Output scores csv
     fields = ["Name", "Score"]
-    with open("scores.csv", "w") as csvf:
+    with open(filename + ".csv", "w") as csvf:
         writer = csv.DictWriter(csvf, fieldnames=fields)
         writer.writeheader()
         writer.writerows(scores_list)
