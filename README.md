@@ -1,7 +1,7 @@
 # readings-autograder - v1.0.0
 
-You'll need python3 and piazza-api for the grader to work. Once you have python installed, run
-```make``` from the root and that should install the dependencies *(piazza-api)* for you.
+You'll need python3 and piazza-api for the grader to work. Once you have python installed, clone the project and run
+```make``` from the root and that should install all the dependencies *(piazza-api)* for you.
 
 Usage: ```python3 grader.py``` in your terminal or git bash
 
