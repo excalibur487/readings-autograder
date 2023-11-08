@@ -8,6 +8,8 @@ Usage: ```python3 grader.py``` in your terminal or git bash
 Program will prompt for your piazza credentials. Once logged in, enter the post number for the readings post. 
 *(you'll find this number in the url after "/post")*
 
+Note: **Anonymous** posters will have to be graded manually for now. 
+
 The output will be a csv file with student names and their corresponding scores.
 
 Current grading criteria:
