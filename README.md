@@ -13,4 +13,4 @@ Program will prompt for your piazza credentials. Once logged in, enter the post 
 Current grading criteria:
 70% for an initial post. 30% for a reply.
 
-Edit: (7/10/2024) Transferred project from github enterprise to personal
+### Edit: (7/10/2024) Transferred project from github enterprise to personal
