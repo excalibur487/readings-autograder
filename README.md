@@ -15,4 +15,4 @@ Current grading criteria:
 
 ### Edit: (7/10/2024) Transferred project from github enterprise to personal
 
-### Edit: (3/5/2025) Anonymized potentially sensitive data
+### Edit: (3/5/2025) Deleted potentially sensitive data
